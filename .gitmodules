@@ -1,0 +1,6 @@
+[submodule "neopath-fe"]
+	path = neopath-fe
+	url = https://github.com/kuhakuni/neopath-fe
+[submodule "neopath-varsity-hackathon"]
+	path = neopath-varsity-hackathon
+	url = https://github.com/adityarizkyramadhan/neopath-varsity-hackathon
